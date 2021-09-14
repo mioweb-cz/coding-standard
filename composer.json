@@ -1,0 +1,20 @@
+{
+  "name": "mioweb-cz/coding-standard",
+  "description": "Application for managing Mioweb customer accounts.",
+  "homepage": "https://github.com/mioweb-cz/coding-standard",
+  "type": "project",
+  "license": "proprietary",
+  "authors": [
+    {
+      "name": "Adam Zelycz",
+      "email": "adam@mioweb.cz"
+    }
+  ],
+  "support": {
+    "email": "dev@mioweb.cz"
+  },
+  "require-dev": {
+    "roave/security-advisories": "dev-master",
+    "slevomat/coding-standard": "^7.0.6"
+  }
+}
