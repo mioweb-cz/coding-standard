@@ -16,7 +16,7 @@
     </rule>
 
     <!-- CONSISTENCE -->
-    <rule ref="consistence.xml">
+    <rule ref="./consistence.xml">
         <!-- because of *.phpt -->
         <exclude name="PSR1.Files.SideEffects.FoundWithSymbols"/>
 
