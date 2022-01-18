@@ -13,6 +13,7 @@
         <exclude name="Generic.WhiteSpace.DisallowTabIndent.TabsUsed"/>
         <exclude name="PSR2.Classes.ClassDeclaration.CloseBraceAfterBody"/>
         <exclude name="Generic.Files.LineLength.TooLong"/>
+        <exclude name="PSR12.Classes.OpeningBraceSpace.Found"/>
     </rule>
 
     <!-- CONSISTENCE -->
