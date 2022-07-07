@@ -14,7 +14,7 @@
     "email": "dev@mioweb.cz"
   },
   "require": {
-    "php": "^7.4 || ^8.0",;
+    "php": "^7.4 || ^8.0",
     "slevomat/coding-standard": "^8.1"
   },
   "require-dev": {
