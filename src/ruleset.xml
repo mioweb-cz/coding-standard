@@ -63,6 +63,9 @@
         <exclude name="SlevomatCodingStandard.Files.FunctionLength.FunctionLength"/>
         <exclude name="SlevomatCodingStandard.ControlStructures.DisallowNullSafeObjectOperator.DisallowedNullSafeObjectOperator"/>
         <exclude name="SlevomatCodingStandard.Namespaces.ReferenceUsedNamesOnly.PartialUse"/>
+        <exclude name="SlevomatCodingStandard.Files.FileLength.FileTooLong"/>
+        <exclude name="SlevomatCodingStandard.Classes.ClassLength.ClassTooLong"/>
+        <exclude name="SlevomatCodingStandard.Complexity.Cognitive.ComplexityTooHigh"/>
     </rule>
 
     <rule ref="SlevomatCodingStandard.TypeHints.DeclareStrictTypes">
