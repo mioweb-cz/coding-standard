@@ -78,6 +78,12 @@
         </properties>
     </rule>
 
+    <rule ref="SlevomatCodingStandard.Attributes.AttributesOrder">
+        <properties>
+            <property name="orderAlphabetically" type="bool" extend="true" value="true"/>
+        </properties>
+    </rule>
+
     <rule ref="SlevomatCodingStandard.Namespaces.ReferenceUsedNamesOnly">
         <properties>
             <property name="allowFullyQualifiedExceptions" type="boolean" value="true"/>
