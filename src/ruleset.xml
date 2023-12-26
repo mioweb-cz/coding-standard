@@ -71,7 +71,7 @@
 
     <rule ref="SlevomatCodingStandard.TypeHints.DeclareStrictTypes">
         <properties>
-            <property name="linesCountBeforeDeclare" value="0"/>
+            <property name="declareOnFirstLine" type="boolean" value="true"/>
             <property name="linesCountAfterDeclare" value="1"/>
             <property name="spacesCountAroundEqualsSign" value="0"/>
             <property name="declareOnFirstLine" value="true"/>
