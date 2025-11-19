@@ -7,6 +7,7 @@
         <!-- Allow <?php declare(strict_types=1); on same line -->
         <exclude name="PSR12.Files.OpenTag.NotAlone"/>
         <exclude name="PSR12.Files.FileHeader.SpacingAfterBlock"/>
+        <exclude name="PSR12.Files.FileHeader.SpacingAfterTagBlock"/>
         <!-- First line after opening class brace should be blank -->
         <exclude name="PSR12.Traits.UseDeclaration.UseAfterBrace"/>
 
